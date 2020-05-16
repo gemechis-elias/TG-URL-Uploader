@@ -1,5 +1,5 @@
 {
-  "name": "TG URL Uploader",
+  "name": "engtoamhbot",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -23,11 +23,11 @@
       "value": "ANYTHING"
     },
     "TG_BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
-      "value": ""
+      "description": "1163570458:AAHj8veyarGACbClMoIeu21sig5xg3RgzlI, as a string.",
+      "value": "1163570458:AAHj8veyarGACbClMoIeu21sig5xg3RgzlI"
     },
     "CHAT_BASE_TOKEN": {
-      "description": "Your chat base token, as a string.",
+      "description": "1163570458:AAHj8veyarGACbClMoIeu21sig5xg3RgzlI, as a string.",
       "value": ""
     },
     "APP_ID": {
