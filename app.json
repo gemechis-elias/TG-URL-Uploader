@@ -36,7 +36,7 @@
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "f11f0a2213ea987b1da3ab10769f146b"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
